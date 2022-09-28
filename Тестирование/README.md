@@ -75,7 +75,7 @@ TDD
 
 Жизненный цикл ПО
 
-image
+![image](https://user-images.githubusercontent.com/98009151/192714360-7a012a62-a5b9-41b8-a24c-a497897ee55a.png)
 
 ЖЦ программного обеспечения:
 
@@ -106,7 +106,7 @@ image
 
 даже если всё заканчивается хорошо,не знать
 
-image
+![image](https://user-images.githubusercontent.com/98009151/192714400-547946be-e726-4149-b4b5-5d94d639e2ac.png)
 
 Трудности тестирования в каскадной модели
 
